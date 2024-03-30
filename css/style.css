@@ -296,11 +296,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-cover {
-  height: 900px;
+  height: 600px;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   position: relative;
-  width: 100%;
+  width: 40%;
 }
 .fh5co-cover .overlay {
   z-index: 0;
